@@ -1,5 +1,6 @@
 ## Welcome to Rohith Balusu's Website!
 
+![](Rohith.png)
 
 ### A Little Bit About Myself
 
