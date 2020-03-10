@@ -12,16 +12,16 @@ Recently in my STATS 385 class, we had to code for using an existing database al
 
 
 # Plot the histogram with the density estimate curve
-Code Snippet: 
+My Code Snippet: 
 
-faithful
+     faithful
 
-hist(x = faithful$eruptions, main = "Histogram of Old Faithful Geyser Eruption Time", xlab = "Eruption Time (mins)",
-     breaks = 20, border = "dodgerblue", probability = TRUE,
-     ylim = c(0, 0.8), xlim = c(1,6))
-lines(density(faithful$eruptions), col="red", lwd=2)
-box()
-grid()
+     hist(x = faithful$eruptions, main = "Histogram of Old Faithful Geyser Eruption Time", xlab = "Eruption Time (mins)",
+          breaks = 20, border = "dodgerblue", probability = TRUE,
+          ylim = c(0, 0.8), xlim = c(1,6))
+     lines(density(faithful$eruptions), col="red", lwd=2)
+     box()
+     grid()
 
 ```
 Output: 
