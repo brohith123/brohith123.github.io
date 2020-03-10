@@ -8,7 +8,7 @@ I am currently a senior majoring in Econometrics and Quantative Economics at the
 
 ### Blog Post Date 3/6/2020
 
-Recently in my STATS 385 class, we had to code for using an existing database already loaded in Rstudio to create a density estimate curve for the famous Old Faithful geyser located in Yellowstone National Park in regards to eruption times. Attached below is the code I used from the dataset, 'faithful' to display an output of this comparison. 
+Recently in my STATS 385 class, we had to code for using an existing database already loaded in Rstudio to create a density estimate curve for the famous Old Faithful geyser located in Yellowstone National Park in regards to the length of its eruption times. Attached below is the code I used from the dataset, 'faithful' to display an output of this comparison. I have not visiting Yellowstone yet but I mostly definitely will someday as I enjoy going on camping and backtripping trips, so this was definitely an interesting piece of information to mull over.
 
 ```markdown
 
