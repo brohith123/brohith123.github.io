@@ -1,8 +1,7 @@
 ## Welcome to Rohith Balusu's Website!
 
-![](Rohith.png)
 
-### A Little Bit About myself
+### A Little Bit About Myself
 
 I am currently a senior majoring in Econometrics and Quantative Economics at the University of Illinois at Urbana Champaign. In my free time I enjoy spending time with my friends playing board games, watching movies, and going out to eat. Some of my passions and hobbies include learning to cook new dishes and volunteering in the local community. Some of my future aspirations include pursuing a career in business, particularly with something related to the healthcare industry. 
 
