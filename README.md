@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 ```
 ### Linkedin
-[Click Here!](https://www.linkedin.com/in/rohith-balusu-4991a1173/) 
+[Connect With Me!](https://www.linkedin.com/in/rohith-balusu-4991a1173/) 
 
 ### Resume
 ![](Resume.png)
