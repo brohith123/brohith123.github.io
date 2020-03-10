@@ -21,7 +21,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.linkedin.com/in/rohith-balusu-4991a1173/) and ![Image](src)
+[Link](https://www.linkedin.com/in/rohith-balusu-4991a1173/) 
+![Image](Resume.png)
 
 
 ```
