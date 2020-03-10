@@ -6,22 +6,28 @@
 
 I am currently a senior majoring in Econometrics and Quantative Economics at the University of Illinois at Urbana Champaign. In my free time I enjoy spending time with my friends playing board games, watching movies, and going out to eat. Some of my passions and hobbies include learning to cook new dishes and volunteering in the local community. Some of my future aspirations include pursuing a career in business, particularly with something related to the healthcare industry. 
 
+### Blog Post Date 3/6/2020
 ```markdown
-Syntax highlighted code block
+Recently in my STATS 385 class, we had to code for 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Plot the histogram with the density estimate curve
+Code Snippet: 
 
-**Bold** and _Italic_ and `Code` text
+faithful
+
+hist(x = faithful$eruptions, main = "Histogram of Old Faithful Geyser Eruption Time", xlab = "Eruption Time (mins)",
+     breaks = 20, border = "dodgerblue", probability = TRUE,
+     ylim = c(0, 0.8), xlim = c(1,6))
+lines(density(faithful$eruptions), col="red", lwd=2)
+box()
+grid()
 
 ```
+Output: 
+![](Code%20output.png)
+
 ### Linkedin
 [Connect With Me!](https://www.linkedin.com/in/rohith-balusu-4991a1173/) 
 
