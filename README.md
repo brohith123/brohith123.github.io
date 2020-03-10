@@ -1,12 +1,10 @@
-## Welcome to Rohith Balusu's Website
+## Welcome to Rohith Balusu's Website!
 
-You can use the [editor on GitHub](https://github.com/brohith123/brohith123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About myself
+### A Little Bit About myself
 
-I am currently a senior majoring in Econometrics and Quantative Economics at the University of Illinois at Urbana Champaign. In my free time I enjoy spending time with my friends playing board games, watching movies, and going out to eat. Some of my passions and hobbies include learning to cook new dishes and volunteering in the local community. 
+I am currently a senior majoring in Econometrics and Quantative Economics at the University of Illinois at Urbana Champaign. In my free time I enjoy spending time with my friends playing board games, watching movies, and going out to eat. Some of my passions and hobbies include learning to cook new dishes and volunteering in the local community. Some of my future aspirations include pursuing a career in business, particularly with something related to the healthcare industry. 
 
 ```markdown
 Syntax highlighted code block
