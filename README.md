@@ -21,12 +21,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.linkedin.com/in/rohith-balusu-4991a1173/) 
-![](Resume.png)
-
-
 ```
+### Linkedin
+[Link](https://www.linkedin.com/in/rohith-balusu-4991a1173/) 
 
+### Resume
 ![](Resume.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
