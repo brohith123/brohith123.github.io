@@ -1,6 +1,6 @@
 ## Welcome to Rohith Balusu's Website!
 
-![](images/Screen%20Shot%202018-09-19%20at%2011.47.10%20AM.png)
+![](Rohith.png)
 
 ### A Little Bit About myself
 
