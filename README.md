@@ -30,7 +30,7 @@ Output:
 ### Linkedin
 [Connect With Me!](https://www.linkedin.com/in/rohith-balusu-4991a1173/) 
 
-### Resume
+### My Resume!
 ![](Resume.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
